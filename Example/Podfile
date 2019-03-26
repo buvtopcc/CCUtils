@@ -5,7 +5,7 @@ platform :ios, '8.0'
 source 'https://github.com/buvtopcc/CCSpecs.git'
 
 target 'CCUtils_Example' do
-  pod 'CCUtils', :path => '../'
+  pod 'CCUtils'
 
   target 'CCUtils_Tests' do
     inherit! :search_paths
