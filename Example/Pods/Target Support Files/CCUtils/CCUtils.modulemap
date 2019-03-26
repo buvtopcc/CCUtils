@@ -1,0 +1,6 @@
+framework module CCUtils {
+  umbrella header "CCUtils-umbrella.h"
+
+  export *
+  module * { export * }
+}

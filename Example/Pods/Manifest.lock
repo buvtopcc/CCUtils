@@ -1,0 +1,16 @@
+PODS:
+  - CCUtils (0.1.0)
+
+DEPENDENCIES:
+  - CCUtils (from `../`)
+
+EXTERNAL SOURCES:
+  CCUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CCUtils: 93f5e49e0b8e7b4ac688ede38714c0213dc99e54
+
+PODFILE CHECKSUM: aa313df73cf0b83790b63845f70c9f9cef768056
+
+COCOAPODS: 1.6.1
