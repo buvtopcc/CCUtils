@@ -17,14 +17,12 @@ CCUtils is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-# 设置源
-source 'https://github.com/buvtopcc/CCSpecs.git'
 pod 'CCUtils'
 ```
 
 ## Author
 
-pcc869@gmail.com
+pcc869@gmail.com, pengchangcheng@yy.com
 
 ## License
 

@@ -10,6 +10,11 @@
 #endif
 #endif
 
+#import "JSONSerialize.h"
+#import "NSObject+Coding.h"
+#import "NSObject+Swizz.h"
+#import "UIDevice+Util.h"
+#import "UIView+CCFrame.h"
 
 FOUNDATION_EXPORT double CCUtilsVersionNumber;
 FOUNDATION_EXPORT const unsigned char CCUtilsVersionString[];

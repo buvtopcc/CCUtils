@@ -1,16 +1,16 @@
 PODS:
-  - CCUtils (0.1.0)
+  - CCUtils (0.1.1)
 
 DEPENDENCIES:
-  - CCUtils (from `../`)
+  - CCUtils
 
-EXTERNAL SOURCES:
-  CCUtils:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/buvtopcc/CCSpecs.git:
+    - CCUtils
 
 SPEC CHECKSUMS:
-  CCUtils: 8027a0a5afae327fad82c2c5f6250a8de3e78c22
+  CCUtils: 02f1a2b727642e676850f345f079c5f1fdf8b19b
 
-PODFILE CHECKSUM: 1362f039277a1d1dcda729e808d799571f922b08
+PODFILE CHECKSUM: 749bf53bc17ffbd5588ea1946be06b2879e48a52
 
 COCOAPODS: 1.6.1
