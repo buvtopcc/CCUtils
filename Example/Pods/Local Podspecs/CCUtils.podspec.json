@@ -1,18 +1,18 @@
 {
   "name": "CCUtils",
   "version": "0.1.0",
-  "summary": "A short description of CCUtils.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/pcc869@gmail.com/CCUtils",
+  "summary": "CCUtils is kinds of tools.",
+  "description": "CCUtils is kinds of tools include all category files.",
+  "homepage": "https://github.com/buvtopcc/CCUtils",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "pcc869@gmail.com": "pengchangcheng@yy.com"
+    "buvtopcc": "pengchangcheng@yy.com"
   },
   "source": {
-    "git": "https://github.com/pcc869@gmail.com/CCUtils.git",
+    "git": "https://github.com/buvtopcc/CCUtils.git",
     "tag": "0.1.0"
   },
   "platforms": {

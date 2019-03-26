@@ -2,6 +2,8 @@ use_frameworks!
 
 platform :ios, '8.0'
 
+source 'https://github.com/buvtopcc/CCSpecs.git'
+
 target 'CCUtils_Example' do
   pod 'CCUtils', :path => '../'
 
