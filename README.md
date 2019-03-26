@@ -24,7 +24,7 @@ pod 'CCUtils'
 
 ## Author
 
-pcc869@gmail.com, pengchangcheng@yy.com
+pcc869@gmail.com
 
 ## License
 
